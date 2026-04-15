@@ -94,7 +94,7 @@ export default function HomeSection() {
           className="flex flex-col sm:flex-row gap-4 justify-center items-center"
         >
           <a 
-            href="https://drive.google.com/file/d/1M-v6cGy4djxztAqfgjatQ747B4L8EsNc/view?usp=sharing" 
+            href="https://drive.google.com/drive/folders/14JdKMNEU06lRPcFoQo2VTutetD77yeWJ?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="contents"
